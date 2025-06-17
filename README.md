@@ -1,6 +1,7 @@
 # 🎯 Projet : Contrôle d'un Servo SG92R avec Joystick et Interface Python
 
-![Bannière du projet](images/schema_branchement.jpg) *Si vous avez une image représentative*
+![joytisck_servo_moteur_uno](https://github.com/user-attachments/assets/ec0bf914-dcf2-4dfb-976b-4270e2cef40b)
+
 
 ## 📋 Table des matières
 - [Objectif](#-objectif)
